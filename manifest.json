@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Coding Tab",
-  "description": "Opens cool animation random image with a random coding quote.",
-  "homepage_url": "https://github.com/nabendu82/Coding-Tab",
+  "name": "Daily Motivational Tab",
+  "description": "Opens cool animation random image with a random motivational quote.",
+  "homepage_url": "https://github.com/nabendu82/Daily-Motivational-Tab",
   "version": "1.0",
   "icons": {
     "32": "icons/logo_32.png",

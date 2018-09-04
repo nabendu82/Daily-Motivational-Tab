@@ -35,10 +35,11 @@ html {
   }
 
 
-  .panel1 { background-image:url(https://source.unsplash.com/1500x1500/?javascript); }
-  .panel2 { background-image:url(https://source.unsplash.com/1500x1500/?developer); }
-  .panel3 { background-image:url(https://source.unsplash.com/1500x1500/?coding); }
-  .panel4 { background-image:url(https://source.unsplash.com/collection/991516/1500x1500); }
+  .panel1 { background-image:url(https://source.unsplash.com/1500x1500/?motivational); }
+  .panel2 { background-image:url(https://source.unsplash.com/1500x1500/?motivation); }
+  .panel3 { background-image:url(https://source.unsplash.com/collection/2249355/1500x1500); }
+  .panel4 { background-image:url(https://source.unsplash.com/collection/1004170/1500x1500); }
+  .panel5 { background-image:url(https://source.unsplash.com/collection/2309918/1500x1500); }
 
   /* Flex Items */
   .panel > * {

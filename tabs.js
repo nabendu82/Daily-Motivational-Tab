@@ -13,7 +13,7 @@ function toggleActive(e) {
 }
 
 (function() {
-  var r = Math.round(Math.random())+2;  
+  var r = Math.round(Math.random())+9;  
   console.log('r is ', r);
   document.getElementById('panels'+r).style.display='flex';
   document.getElementById('panels'+r).style.overflow='hidden';
